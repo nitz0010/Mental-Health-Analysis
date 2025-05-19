@@ -84,3 +84,8 @@ Preserve user privacy and data anonymity
 
 Focus on supporting, not stigmatizing, mental health
 
+#Author
+
+Project created by Nitish Saikia
+
+
